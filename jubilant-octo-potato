@@ -1,0 +1,8 @@
+let collage = Collage(
+            shapes: [.init(elements: [element1],
+                           zPosition: 1,
+                           blendMode: .normal,
+                           blur: .none,
+                           adjustments: .defaultAdjustments,
+                           transforms: .init()),
+                     .init(elements: [element2],
